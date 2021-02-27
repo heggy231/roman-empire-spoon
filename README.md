@@ -7,3 +7,5 @@
 1. Terminator
 1. The Notebook
 
+### Where I live
+I currently in Fargo, North Dakota
